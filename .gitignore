@@ -1,0 +1,9 @@
+.env
+vw-data/
+nginx/ssl/
+backup/mysql/
+*.pem
+*.key
+*.sql
+*.sql.gz
+projet_docker.txt
